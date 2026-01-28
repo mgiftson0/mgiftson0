@@ -29,7 +29,6 @@ Primary stack:
 ---
 
 ## ⭐ Featured projects
-(Replace these with your pinned repos or paste links and I’ll populate them.)
 
 - [project-a](https://github.com/mgiftson0/FileSwitch) — Next.js app for X. (Next.js · React · TypeScript)
 - [project-b](https://github.com/mgiftson0/ParallaxKey) 
@@ -40,7 +39,7 @@ More of my work: https://github.com/mgiftson0?tab=repositories
 ---
 
 ## 📈 GitHub Stats
-(If you want these widgets, remove any languages you don't want shown)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgiftson0&layout=compact&hide=Jupyter%20Notebook)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mgiftson0&show_icons=true&count_private=true)
 
